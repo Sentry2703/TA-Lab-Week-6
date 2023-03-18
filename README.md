@@ -7,8 +7,7 @@ Created an app, that calls from an API to pull a list of dogs.
 ## Video Walkthrough
 Here's a video / GIF that demos all of the app's implemented features:
 
-![](http://g.recordit.co/l4pxuCY00J.gif)
 
-<img src= title='Video Walkthrough' width='' alt='Video Demo' />
+<img src= "http://g.recordit.co/l4pxuCY00J.gif" title='Video Walkthrough' width='' alt='Video Demo' />
 
 GIF created with **Recordit**
