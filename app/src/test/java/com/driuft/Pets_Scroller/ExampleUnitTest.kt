@@ -1,4 +1,4 @@
-package com.driuft.random_pets_starter
+package com.driuft.Pets_Scroller
 
 import org.junit.Test
 

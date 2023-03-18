@@ -1,4 +1,4 @@
-package com.driuft.random_pets_starter
+package com.driuft.Pets_Scroller
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
