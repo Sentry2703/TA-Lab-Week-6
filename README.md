@@ -1,6 +1,6 @@
 LAB Unit 6.
 
-Submitted by: **Tunji Adewoye**
+Submitted by: **Adetunji Adewoye**
 
 Created an app, that calls from an API to pull a list of dogs.
 
